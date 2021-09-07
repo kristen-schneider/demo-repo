@@ -1,2 +1,4 @@
 testing add and commit workflow
 git log information
+1
+2
